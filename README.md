@@ -72,7 +72,7 @@ Describe the dataset used:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/data-engineering-phase1.git
+git clone https://github.com/vipin104933/data-engineering-phase1.git
 cd data-engineering-phase1
 ```
 
@@ -134,7 +134,7 @@ python scripts/clean_data.py
 
 ## Author
 
-Your Name
+vipin
 
 ## License
 
